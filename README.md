@@ -203,16 +203,5 @@ taskflow/
 └── README.md
 ```
 
-## 🎬 Demo Video Tips
 
-1. Show signup as **Admin**, then signup as **Member** in incognito
-2. As admin: create a project, add tasks with different priorities/statuses
-3. Add the member to the project
-4. As member: log in, view tasks, update status, add a comment
-5. Show the Kanban board + dashboard stats
-6. Show the overdue task warning
-7. Show live Railway deployment URL
 
----
-
-Built with ❤️ for the Full-Stack Assignment
